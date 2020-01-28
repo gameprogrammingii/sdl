@@ -33,5 +33,5 @@ SDL2_ttf.lib
 
 Additional library directories (x86)
 ```
-..\.sdl\libs\x86
+..\.sdl\lib\x86
 ```
