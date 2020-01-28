@@ -35,3 +35,11 @@ Additional library directories (x86)
 ```
 ..\.sdl\lib\x86
 ```
+
+Make sure you have correct main function:
+```
+int main(int argc, char* args[])
+{
+  ...
+}
+```
