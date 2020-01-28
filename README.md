@@ -19,3 +19,15 @@ SDL2_image.lib
 SDL2_mixer.lib
 SDL2_ttf.lib
 ```
+
+## Installation
+
+Add using subtree:
+```
+git@github.com:gameprogrammingii/sdl.git
+```
+
+Additional include directories:
+```
+..\.sdl\include
+```
