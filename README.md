@@ -14,7 +14,7 @@ Included is SDL2 libraries collected in one repository.
 
 Add using subtree:
 ```
-git@github.com:gameprogrammingii/sdl.git
+git subtree add --prefix .sdl git@github.com:gameprogrammingii/sdl.git master --squash
 ```
 
 Additional include directories:
